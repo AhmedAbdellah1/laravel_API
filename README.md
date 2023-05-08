@@ -1,3 +1,3 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel_API"></a></p>
+<h1>Laravel_API</h1>
 
 ## this project have a main create ,read , update, delete(crud) api and login and logout and refresh profile page and get profile
